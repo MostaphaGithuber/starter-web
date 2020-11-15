@@ -2,7 +2,8 @@
 
 This is a simple website project for
 showing how to use Git and Github together.
- Addigna line for rebasing example.
+ Addigna line for rebasing example, then more changes
+ from myfeature branch too.
 
 ## Introduction
 
